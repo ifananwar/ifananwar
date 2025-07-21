@@ -1,8 +1,10 @@
-# 👋 Hello World! I’m Ifan — engineer, explorer, and eternal learner.
+# 👋 Hello World!
+# I’m Ifan — engineer, explorer, and eternal learner.
 
 ###
 <div align="center">
   <img src="/github-header-image.png" alt="Page" />
+  <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ifananwar.ifananwar&"  />
 </div>
 
@@ -43,9 +45,13 @@
 [![Reduce-Supply-Chain-Costs-FMCG-Industry](https://github-readme-stats.vercel.app/api/pin/?username=ifananwar&repo=Reduce-Supply-Chain-Costs-FMCG-Industry)](https://github.com/ifananwar/Reduce-Supply-Chain-Costs-FMCG-Industry)
 
 #### 🥇 My Github Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ifananwar&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifananwar&layout=donut-vertical)](https://github.com/ifananwar/github-readme-stats&theme=midnight-purple)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifananwar&show_icons=true&theme=midnight-purple" alt="My GitHub stats" />
+  <br><br>
+  <a href="https://github.com/ifananwar/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifananwar&layout=donut-vertical&theme=midnight-purple" alt="Top Langs" />
+  </a>
+</div>
 
 
 <h3 align="center">🎮 Let's Play With Me</h3>
