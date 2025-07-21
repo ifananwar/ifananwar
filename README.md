@@ -1,5 +1,5 @@
 # 👋 Hello World!
-# I’m Ifan — engineer, explorer, and eternal learner.
+
 
 ###
 <div align="center">
@@ -9,6 +9,7 @@
 </div>
 
 ###
+## Engineer, explorer, and eternal learner.
 
 ## 🐱‍👓 A little bit about me:
 
